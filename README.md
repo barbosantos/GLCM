@@ -8,3 +8,5 @@ make
 
 Visto que o makefile vai compilar os 3 arquivos e o nome da imagem tem que ser passado na linha de comando.
 
+Mais informações sobre o desafio: http://ppger.ifce.edu.br/1o-desafio-ppger-para-a-graduacao/
+
