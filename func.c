@@ -1,15 +1,4 @@
-/*********************************************************************/
-/** Aluno : Gabriel Santos Barbosa 								    **/
-/** M a t r i c u l a : 20142045050156								**/
-/** 																**/
-/** Aluno : Willian Bastos Dias										**/
-/** M a t r i c u l a : 20142045050270								**/
-/**                                                                 **/
-/** Trabalho Final	- Laboratorio de programaçao				   	**/
-/** 					   											**/
-/** Prof. Daniel Ferreira                                           **/
-/** Versão do compilador: gcc (Ubuntu 4.8.4-2ubuntu1~14.04.1) 4.8.4 **/
-/*********************************************************************/
+
 
 #include <stdio.h>
 #include <stdlib.h>
