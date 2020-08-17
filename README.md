@@ -1,12 +1,12 @@
 # GLCM
-Implementação do algoritmo Gray-Level Co-occurrence Matrix (GLCM) submetido ao desafio PPGER (Programa de Pós-Graduação em Energias Renováveis - IFCE) para alunos de graduação. 
+Implementation of the Gray-Level Co-occurrence Matrix (GLCM) algorithm submitted to the challenge PPGER (Graduate Program in Renewable Energies - IFCE) for undergraduate students.
 
-Para executar o programa, basta digitar no diretorio contendo os códigos e a imagem na qual deseja calcular os atributos:
+To run the program, type the following command in the directory containing the codes and the image in which you want to calculate the attributes:
 
 make
 ./main.e imagem.pgm
 
-Visto que o makefile vai compilar os 3 arquivos e o nome da imagem tem que ser passado na linha de comando.
+The makefile will compile the 3 files and the name of the image has to be passed in the command line.
 
-Mais informações sobre o desafio: http://ppger.ifce.edu.br/1o-desafio-ppger-para-a-graduacao/
+More information about the challenge: http://ppger.ifce.edu.br/1o-desafio-ppger-para-a-graduacao/
 
